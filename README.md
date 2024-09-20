@@ -8,7 +8,7 @@ To test the validity of the surrogates two dynamical systems from the PFE were c
 $$
 \text{Model 1:}\begin{cases}
 \frac{dx_\epsilon}{dt}=f_\epsilon(t,\frac{t}{\epsilon},x_\epsilon)=-x_\epsilon cos(2\pi\frac{t}{\epsilon})\\
-\frac{dx_0}{dt}=f_0(t,x_0)\implies x_0(t)=2.5\\
+\frac{dx_0}{dt}=f_0(t,x_0)\implies x_0(t)=x\\
 \end{cases}
 $$
 
