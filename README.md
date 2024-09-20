@@ -22,3 +22,6 @@ $$
 For model 1 we can rely on the hoogenization to extract the macroscopic behavior while for model 5 we rely on the rolling average.
 ## LSTM-Surrogate :
 For sufficiently large and informative training data a basic LSTM network is used as a mapping $\mathcal{F}:t\to [x_0(t),x_\epsilon(t)]^T$, the architecture is described bellow: 
+<div style="text-align: center;">
+  <img src="./images/" alt="Image description" />
+</div>
